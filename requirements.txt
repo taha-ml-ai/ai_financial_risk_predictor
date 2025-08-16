@@ -1,0 +1,8 @@
+# File: K:\proj\github\ai_financial_risk_predictor\requirements.txt
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+streamlit
