@@ -1,7 +1,5 @@
 # AI Financial Risk Predictor
 
-**Project Path:** `K:\proj\github\ai_financial_risk_predictor`
-
 ---
 
 ## **Project Overview**
